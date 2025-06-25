@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|c:\\users\\shree\\source\\repos\\git-demo\\blogging\\localrepoblog\\bloglocal02\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|c:\\users\\shree\\source\\repos\\git-demo\\blogging\\localrepoblog\\bloglocal02\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|c:\\users\\shree\\source\\repos\\git-demo\\blogging\\localrepoblog\\bloglocal02\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|c:\\users\\shree\\source\\repos\\git-demo\\blogging\\localrepoblog\\bloglocal02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|c:\\users\\shree\\source\\repos\\git-demo\\blogging\\localrepoblog\\bloglocal02\\bloglocal02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E185F321-E4F4-4DA1-BA16-E85C1A0D688B}|BlogLocal02.csproj|solutionrelative:bloglocal02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:22:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogLocal02",
+              "DocumentMoniker": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\BlogLocal02.csproj",
+              "RelativeDocumentMoniker": "BlogLocal02.csproj",
+              "ToolTip": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\BlogLocal02.csproj",
+              "RelativeToolTip": "BlogLocal02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T12:20:44.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:20:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:20:14.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\SHREE\\source\\repos\\Git-Demo\\blogging\\LocalRepoBlog\\BlogLocal02\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:19:33.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
